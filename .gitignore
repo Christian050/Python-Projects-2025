@@ -1,0 +1,20 @@
+# Build Files
+.dist/
+*.json
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+
+# Environment and IDE
+.vscode/
+.venv/
+
+
+# OS files
+.DS_Store
+Thumbs.db
